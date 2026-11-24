@@ -1,0 +1,11 @@
+Rechazado: Aporte inválido: -100
+Rechazado: Aporte inválido: 0
+Rechazado: Personas inválidas: 0
+Rechazado: Personas inválidas: 0
+Total: $10500
+Aportes: 3
+A cada uno: $3500
+Sobrante entre 3: $0
+Entre 4: $2625 y sobran $0
+Entre 9: $1166 y sobran $6
+¿Cuadra? true

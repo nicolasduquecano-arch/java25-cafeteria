@@ -1,0 +1,12 @@
+Main.java:34: error: method maximo in class Main cannot be applied to given types;
+    IO.println("Más caro: " + maximo(menu).getNombre());
+                              ^
+  required: List<T>
+  found:    List<Producto>
+  reason: inference variable T has incompatible bounds
+    equality constraints: Producto
+    upper bounds: Comparable<T>
+  where T is a type-variable:
+    T extends Comparable<T> declared in method <T>maximo(List<T>)
+1 error
+error: compilation failed

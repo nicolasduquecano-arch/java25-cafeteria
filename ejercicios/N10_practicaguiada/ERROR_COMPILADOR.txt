@@ -1,0 +1,16 @@
+# A) Bono implements Pago sin agregarlo a permits
+Bono.java:1: error: class is not allowed to extend sealed class: Pago (as it is not listed in its 'permits' clause)
+public record Bono(int valor) implements Pago { }
+       ^
+1 error
+error: compilation failed
+
+# B) Bono ya está en permits, pero el switch no se tocó
+Main.java:2: error: the switch expression does not cover all possible input values
+    return switch (p) {
+           ^
+Main.java:15: error: the switch expression does not cover all possible input values
+    return switch (p) {
+           ^
+2 errors
+error: compilation failed

@@ -1,0 +1,5 @@
+Combo.java:19: error: cannot reference this before supertype constructor has been called
+        if (this.precio <= 0) {
+            ^
+1 error
+error: compilation failed

@@ -1,0 +1,7 @@
+[1] Crear [2] Listar [3] Cantidad [4] Eliminar [0] Salir
+Opción › Nombre › Cantidad › Exception in thread "main" java.lang.NumberFormatException: For input string: "abc"
+	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+	at java.base/java.lang.Integer.parseInt(Integer.java:565)
+	at java.base/java.lang.Integer.parseInt(Integer.java:662)
+	at Main.leerNumero(Main.java:2)
+	at Main.main(Main.java:17)

@@ -1,0 +1,4 @@
+Sofía: 5
+¿Buena? true
+¿Iguales? true
+Calificacion[cliente=Sofía, estrellas=5]

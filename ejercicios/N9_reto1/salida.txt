@@ -1,0 +1,4 @@
+En espera: 3
+Sigue: Rojas (4)
+[Gómez (5), Pérez (3)]
+¿Pérez? true

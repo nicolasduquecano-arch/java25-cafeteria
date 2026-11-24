@@ -1,0 +1,10 @@
+Menú 2026-11-23 · promedio $6666
+ItemMenu[nombre=Latte, categoria=CALIENTE, precio=10450]
+¿Original intacto? true
+¿Original igual al nuevo? false
+Versión 2 · promedio $6983
+Bebida caliente: Latte $9500
+Bebida caliente: Tinto $3500
+No se puede agregar: la lista del menú es inmutable
+Rechazado: Nombre vacío
+Rechazado: Precio inválido: 0

@@ -1,0 +1,58 @@
+=== Sesión 1 (sin archivo) ===
+Reservas cargadas: 0
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › Cliente › Personas › Hora › Creada #1 Familia Rojas · 6 pers. · 20:00
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › Cliente › Personas › Hora › Creada #2 Andrés · 2 pers. · 18:30
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › Cliente › Personas › Hora › Reserva inválida: Mesas de 1 a 8 personas
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › Exportado reservas.csv
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › Guardado. ¡Hasta mañana!
+
+=== reservas.csv ===
+id;cliente;personas;hora
+2;Andrés;2;18:30
+1;Familia Rojas;6;20:00
+
+=== Sesión 2 (se cerró y se volvió a abrir) ===
+Reservas cargadas: 2
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › #2 Andrés · 2 pers. · 18:30
+#1 Familia Rojas · 6 pers. · 20:00
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › Id › Nueva hora › Hora cambiada
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › #2 Andrés · 2 pers. · 18:30
+#1 Familia Rojas · 6 pers. · 19:15
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › Guardado. ¡Hasta mañana!
+
+=== Sesión 3 ===
+Reservas cargadas: 2
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › #2 Andrés · 2 pers. · 18:30
+#1 Familia Rojas · 6 pers. · 19:15
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › Guardado. ¡Hasta mañana!
+
+=== java DemoArchivoMalo.java ===
+Archivo alterado: ahora dice 12 personas
+Rechazado al leer: Mesas de 1 a 8 personas
+
+=== Main con el archivo de 12 personas como reservas.ser ===
+No se pudo leer el archivo: Mesas de 1 a 8 personas
+Reservas cargadas: 0
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › Sin reservas
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › Opción inválida
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › Guardado. ¡Hasta mañana!
+
+=== Main con un HashMap en reservas.ser ===
+El archivo trae una clase no permitida: filter status: REJECTED
+Reservas cargadas: 0
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [7] Exportar CSV [0] Salir
+Opción › Guardado. ¡Hasta mañana!

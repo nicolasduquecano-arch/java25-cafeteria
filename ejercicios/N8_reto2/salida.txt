@@ -1,0 +1,8 @@
+[latte, tinto, moka]
+[tinto, moka, tinto]
+Más reciente: tinto
+Tintos: 2
+Suma: $23500
+Más reciente: $10500
+Cobro mayor: $10500
+Pedido mayor: tinto

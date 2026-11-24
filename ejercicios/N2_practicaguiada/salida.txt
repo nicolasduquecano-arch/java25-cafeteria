@@ -1,0 +1,6 @@
+Latte $9500
+Precio fuera de rango: -9500
+Sigue en $9500
+Stock: 10
+Unidades inválidas: 0
+Stock: 10

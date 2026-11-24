@@ -1,0 +1,2 @@
+Mesa 4 ocupada por 3
+Mesa 4 libre

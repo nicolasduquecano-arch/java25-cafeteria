@@ -1,0 +1,7 @@
+CIERRE · 3 ventas · total $20000
+CIERRE · 3 ventas · total $20000
+ventas;total
+3;20000
+¿Idéntica a la original? true
+<p>3 ventas, total $20000</p>
+CIERRE · 0 ventas · total $0

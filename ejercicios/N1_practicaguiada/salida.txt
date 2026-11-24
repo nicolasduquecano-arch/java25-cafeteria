@@ -1,0 +1,5 @@
+Sofía: 53 puntos
+¿Café gratis? true
+Sofía: 3 puntos
+Sofía: 3 puntos
+Andrés: 9 puntos

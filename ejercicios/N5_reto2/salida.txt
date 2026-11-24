@@ -1,0 +1,9 @@
+Pedido 1 · entrega $0
+Pedido 2 · entrega $500
+Pedido 3 · entrega $6000
+Estado: en camino
+¿Entregado? false
+Estado: entregado
+¿Entregado? true
+Estado: entregado
+Tu domicilio está: entregado

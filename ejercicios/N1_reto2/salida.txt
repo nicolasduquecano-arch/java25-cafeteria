@@ -1,0 +1,48 @@
+Martín prepara un Latte
+Martín prepara un Latte
+Martín prepara un Latte
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Ana prepara un Tinto
+Martín (mañana): 3 bebidas
+¿Merece pausa? false
+Ana (tarde): 21 bebidas
+¿Merece pausa? true
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Martín prepara un Capuchino
+Con 19: false
+Martín prepara un Capuchino
+Con 20: true
+Propinas: $2000

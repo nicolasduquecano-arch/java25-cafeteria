@@ -1,0 +1,93 @@
+=== Día 1 (entrada.txt) ===
+CAFÉ SINTAXIS 1.0 · insumos cargados: 0
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › — Bebida caliente
+1 · Latte $9500 · MEDIANO 350 ml
+2 · Tinto $3500 · PEQUENO 240 ml
+— Bebida fría
+3 · Limonada $8800 · GRANDE 470 ml
+— Postre
+4 · Brownie $7000 · tradicional
+5 · Torta de zanahoria $8000 · vegano
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Mesa › Producto (0 termina) › Cantidad › Producto (0 termina) › Cantidad › Producto (0 termina) › No existe
+Producto (0 termina) › [0] Sin descuento
+[1] 10 % menos
+[2] Fidelidad ($2000 menos)
+Descuento › Teléfono › SMS a 300 555 0101: gracias, tu total fue $23400
+RECIBO 1001 · mesa 4
+2 × Latte = $19000
+1 × Brownie = $7000
+Subtotal: $26000
+Descuento: $2600
+Total: $23400
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Mesa › Producto (0 termina) › Cantidad › Producto (0 termina) › [0] Sin descuento
+[1] 10 % menos
+[2] Fidelidad ($2000 menos)
+Descuento › Teléfono › SMS a 300 555 0103: gracias, tu total fue $1500
+RECIBO 1002 · mesa 5
+1 × Tinto = $3500
+Subtotal: $3500
+Descuento: $2000
+Total: $1500
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Mesa › Producto (0 termina) › [0] Sin descuento
+[1] 10 % menos
+[2] Fidelidad ($2000 menos)
+Descuento › Teléfono › Rechazado: El pedido no tiene productos
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › 2 ventas · saldo $24900
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Nombre › Cantidad › Creado #1 Leche entera (L) (12)
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Nombre › Cantidad › Creado #2 Café en grano (kg) (5)
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Nombre › Cantidad › Rechazado: Cantidad negativa
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Id › Cantidad › Actualizado
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Id › Cantidad › No existe
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Id › No existe
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › #1 Leche entera (L) (20)
+#2 Café en grano (kg) (5)
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Exportado bodega.csv
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Opción inválida
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Nombre › Cantidad › Escribe un número entero
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Bodega guardada. ¡Hasta mañana!
+
+=== bodega.csv ===
+id;nombre;cantidad
+1;Leche entera (L);20
+2;Café en grano (kg);5
+
+=== Día 2 (entrada_dia2.txt) ===
+CAFÉ SINTAXIS 1.0 · insumos cargados: 2
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › #1 Leche entera (L) (20)
+#2 Café en grano (kg) (5)
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Nombre › Cantidad › Creado #3 Canela (g) (250)
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Id › Eliminado
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › #1 Leche entera (L) (20)
+#3 Canela (g) (250)
+[1] Menú [2] Vender [3] Caja [4] Bodega [5] Crear insumo [6] Cantidad [7] Eliminar [8] Exportar CSV [0] Salir
+Opción › Bodega guardada. ¡Hasta mañana!
+
+=== java PruebaReglas.java ===
+26000 con 10 %: $23400
+Aviso: 300 555 0101 → gracias, tu total fue $23400
+Fidelidad en 1500: $0
+El recibo no se altera
+Rechazado: El pedido no tiene productos
+Rechazado: Bebida sin nombre
+Rechazado: Cantidad negativa
+Saldo: $23400 en 1 venta

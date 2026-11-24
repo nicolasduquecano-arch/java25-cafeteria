@@ -1,0 +1,6 @@
+1;Leche entera (L);20
+2;Café en grano (kg);5
+48 bytes · ¿iguales? true
+Punto 1: Cantidad negativa
+Punto 2, sin cambiar la lectura: For input string: "id"
+Punto 2, saltando el encabezado: ¿iguales? true

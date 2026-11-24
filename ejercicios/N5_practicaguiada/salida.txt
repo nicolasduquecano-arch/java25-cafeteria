@@ -1,0 +1,8 @@
+Efectivo $9500: aprobado
+Efectivo $9500: aprobado
+Billetera digital $9500: aprobado
+Billetera digital $9500: rechazado
+Tarjeta $9500: aprobado
+Tarjeta $9500: rechazado
+Tarjeta $9500: aprobado
+Tarjeta $9500: rechazado

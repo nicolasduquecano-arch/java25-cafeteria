@@ -1,0 +1,3 @@
+Lista vacía: false
+¿Avena? true
+¿Canela? false

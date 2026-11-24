@@ -1,0 +1,7 @@
+Latte + Brownie $15000
+Tinto + sin postre $3500
+Final: $15000
+Con propina 10 %: $16500
+Rechazado: Precio inválido: 0
+Rechazado: Precio inválido: -100
+Rechazado: Falta la bebida

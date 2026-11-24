@@ -1,0 +1,7 @@
+Bebida caliente: $13000
+Bebida fría: $12000
+Postre: $7000
+Sin ventas: Panadería
+Sin ventas: Bebida embotellada
+EnumMap: {CALIENTE=13000, FRIA=12000, POSTRE=7000}
+HashMap: {CALIENTE=13000, FRIA=12000, POSTRE=7000}

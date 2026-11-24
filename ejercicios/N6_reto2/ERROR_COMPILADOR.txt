@@ -1,0 +1,5 @@
+EstadoMesa.java:18: error: the switch expression does not cover all possible input values
+        return switch (this) {
+               ^
+1 error
+error: compilation failed

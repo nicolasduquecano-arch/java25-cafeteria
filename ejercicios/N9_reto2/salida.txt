@@ -1,0 +1,32 @@
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [0] Salir
+Opción › Cliente › Personas › Hora › Creada #1 Familia Rojas · 6 pers. · 20:00
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [0] Salir
+Opción › Cliente › Personas › Hora › Creada #2 Andrés · 2 pers. · 18:30
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [0] Salir
+Opción › Cliente › Personas › Hora › Reserva inválida: Mesas de 1 a 8 personas
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [0] Salir
+Opción › Cliente › Personas › Escribe un número entero
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [0] Salir
+Opción › Cliente › Personas › Hora › Creada #3 Sofía · 1 pers. · 18:30
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [0] Salir
+Opción › #2 Andrés · 2 pers. · 18:30
+#3 Sofía · 1 pers. · 18:30
+#1 Familia Rojas · 6 pers. · 20:00
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [0] Salir
+Opción › Hora › #2 Andrés · 2 pers. · 18:30
+#3 Sofía · 1 pers. · 18:30
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [0] Salir
+Opción › Id › No existe
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [0] Salir
+Opción › Id › Nueva hora › Hora cambiada
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [0] Salir
+Opción › Id › Nueva hora › No existe
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [0] Salir
+Opción › Id › Cancelada
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [0] Salir
+Opción › Id › No existe
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [0] Salir
+Opción › #1 Familia Rojas · 6 pers. · 18:00
+#3 Sofía · 1 pers. · 18:30
+[1] Crear [2] Listar [3] Buscar [4] Cambiar hora [5] Cancelar [6] De una hora [0] Salir
+Opción › ¡Hasta mañana!

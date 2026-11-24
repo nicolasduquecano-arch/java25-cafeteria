@@ -1,0 +1,13 @@
+Antes
+LIBRE (Disponible): 2
+OCUPADA (En servicio): 3
+POR_LIMPIAR (Falta limpiar): 1
+RESERVADA (Con reserva): 1
+FUERA_DE_SERVICIO (No usar): 1
+Disponibles: 2
+Después
+LIBRE (Disponible): 1
+OCUPADA (En servicio): 3
+POR_LIMPIAR (Falta limpiar): 3
+RESERVADA (Con reserva): 0
+FUERA_DE_SERVICIO (No usar): 1

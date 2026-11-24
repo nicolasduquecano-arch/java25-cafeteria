@@ -1,0 +1,3 @@
+Propina[barista=Martín, valor=2000]
+Propina[barista=Martín, valor=0]
+Rechazada: Propina negativa: -1

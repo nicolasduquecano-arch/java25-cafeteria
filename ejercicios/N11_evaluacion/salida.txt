@@ -1,0 +1,2 @@
+Turno[barista=Martín, bebidas=42]
+Rechazado: filter status: REJECTED

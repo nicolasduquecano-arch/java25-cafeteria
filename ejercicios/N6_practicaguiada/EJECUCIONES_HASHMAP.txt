@@ -1,0 +1,12 @@
+JDK 25.0.3 de IntelliJ, ejecución 1: HashMap: {FRIA=12000, POSTRE=7000, CALIENTE=13000}
+JDK 25.0.3 de IntelliJ, ejecución 2: HashMap: {FRIA=12000, POSTRE=7000, CALIENTE=13000}
+JDK 25.0.3 de IntelliJ, ejecución 3: HashMap: {FRIA=12000, POSTRE=7000, CALIENTE=13000}
+JDK 25.0.3 de IntelliJ, ejecución 4: HashMap: {FRIA=12000, POSTRE=7000, CALIENTE=13000}
+JDK 25.0.3 de IntelliJ, ejecución 5: HashMap: {FRIA=12000, POSTRE=7000, CALIENTE=13000}
+JDK 25.0.3 de IntelliJ, ejecución 6: HashMap: {FRIA=12000, POSTRE=7000, CALIENTE=13000}
+Temurin 25.0.5.1, ejecución 1: HashMap: {CALIENTE=13000, FRIA=12000, POSTRE=7000}
+Temurin 25.0.5.1, ejecución 2: HashMap: {CALIENTE=13000, FRIA=12000, POSTRE=7000}
+Temurin 25.0.5.1, ejecución 3: HashMap: {CALIENTE=13000, FRIA=12000, POSTRE=7000}
+Temurin 25.0.5.1, ejecución 4: HashMap: {CALIENTE=13000, FRIA=12000, POSTRE=7000}
+Temurin 25.0.5.1, ejecución 5: HashMap: {CALIENTE=13000, FRIA=12000, POSTRE=7000}
+Temurin 25.0.5.1, ejecución 6: HashMap: {CALIENTE=13000, FRIA=12000, POSTRE=7000}

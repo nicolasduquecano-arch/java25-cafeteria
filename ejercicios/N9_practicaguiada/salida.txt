@@ -1,0 +1,19 @@
+[1] Crear [2] Listar [3] Cantidad [4] Eliminar [0] Salir
+Opción › Nombre › Cantidad › Creado #2 Canela (g) (250)
+[1] Crear [2] Listar [3] Cantidad [4] Eliminar [0] Salir
+Opción › #1 Leche entera (L) (12)
+#2 Canela (g) (250)
+[1] Crear [2] Listar [3] Cantidad [4] Eliminar [0] Salir
+Opción › Id › Cantidad › No existe
+[1] Crear [2] Listar [3] Cantidad [4] Eliminar [0] Salir
+Opción › Opción inválida
+[1] Crear [2] Listar [3] Cantidad [4] Eliminar [0] Salir
+Opción › Id › No existe
+[1] Crear [2] Listar [3] Cantidad [4] Eliminar [0] Salir
+Opción › Id › Eliminado
+[1] Crear [2] Listar [3] Cantidad [4] Eliminar [0] Salir
+Opción › #1 Leche entera (L) (12)
+[1] Crear [2] Listar [3] Cantidad [4] Eliminar [0] Salir
+Opción › Id › Cantidad › Escribe un número entero
+[1] Crear [2] Listar [3] Cantidad [4] Eliminar [0] Salir
+Opción › ¡Hasta mañana!
